@@ -1,0 +1,27 @@
+{"payload":{
+    "version": [{
+        "time": "2024-05-24",
+        "ver_num": "1.0.0",
+        
+            "detail": [
+                {"detail_text":"1"},
+                {"detail_text":"2"}
+            ]
+        
+        
+    },{
+        "time": "2024-05-30",
+        "ver_num": "1.0.0_beta",
+        "detail": [{
+            "detail_text":"1"
+        },{
+            "detail_text":"2"
+        },{
+            "detail_text":"3"
+        }]
+           
+        
+      }]
+}
+    
+  }

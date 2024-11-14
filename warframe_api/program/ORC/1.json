@@ -1,0 +1,20 @@
+{
+    "ParsedResults": [
+        {
+            "TextOverlay": {
+                "Lines": [],
+                "HasOverlay": false,
+                "Message": "Text overlay is not provided as it is not requested"
+            },
+            "TextOrientation": "0",
+            "FileParseExitCode": 1,
+            "ParsedText": "18K\n拉特龙半自动步枪\n冷酷•重伤•异变\n+145.3%暴击伤害\n+99.4% 需毒素伤害\n+189.2%暴击儿率\n+92.7%武器后座力\n段位15\n〇 105",
+            "ErrorMessage": "",
+            "ErrorDetails": ""
+        }
+    ],
+    "OCRExitCode": 1,
+    "IsErroredOnProcessing": false,
+    "ProcessingTimeInMilliseconds": "1656",
+    "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}
